@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    background-image: url("C:/Users/nihaal/Downloads/keyboard-1385705_1280.jpg");  
+    color: orangered;
+    text-align: center;
+    padding: 22px;
+}
+
+header h1 {  
+    margin-bottom: 40px;
+    font-size: 59px;
+    font-weight: bolder;
+}
+
+nav ul li :hover{
+    display: inline;
+    margin-right: 20px;
+    background-color: red;
+}
+
+nav{
+    margin-top: 69px;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    padding: 4px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.course {
+    background-image: url("C:/Users/nihaal/Desktop/Computer assesment/j.jpg");
+    width: 100%;
+    font-size: 50px;
+    padding: 22px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+.course img {
+    max-width: 100%;
+}
+
+.course h2 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.course p {
+    margin: 10px 0;
+}
+
+.course a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.course1{
+    background-image: url("C:/Users/nihaal/Desktop/Computer assesment/j.jpg");
+    width: 100%;
+    font-size: 50px;
+    padding: 22px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+.course1 img {
+    max-width: 100%;
+}
+
+.course1 h2 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.course1 p {
+    margin: 10px 0;
+}
+
+.course1 a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    color:#fff;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1px 0;
+    font-size: 30px;
+}
